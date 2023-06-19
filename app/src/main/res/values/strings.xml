@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboubacrineSeckProjet</string>
+    <string name="invalidCrendentials">Email out mot de passe incorrects</string>
+    <string name="invalidRegisterCrendentials">valeurs entrés sont incorrectes</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="activity_on_bicycle">Sur bicyclete</string>
+    <string name="activity_unknown">inconnue</string>
+    <string name="activity_in_vehicle">Dans la voiture</string>
+    <string name="activity_on_foot">A pieds</string>
+    <string name="activity_running">Courir</string>
+    <string name="activity_still">Debout</string>
+    <string name="activity_tilting">Tilting</string>
+    <string name="activity_walking">Marcher</string>
+</resources>
